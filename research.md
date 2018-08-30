@@ -4,7 +4,7 @@ title: Research
 permalink: /research
 ---
 
-[Curriculum Vitae](/assets/Abhishek_Shandilya_CV_v3.pdf)
+[Curriculum Vitae](/assets/vishal_cv_jan2018.pdf)
 
 My research interests are:
 
@@ -20,4 +20,3 @@ Currently, I'm working with Prof. Gandham Phanikumar to model the fluid-flow eff
 
 I'm also seeking a PhD position in an exciting research group in a reputed university in the US.
 
-<!-- [ResearchGate profile]() -->
