@@ -4,5 +4,15 @@ title: Research
 permalink: /research
 ---
 
-[Curriculum Vitae](/assets/vishal_cv_jan2018.pdf)
+[Curriculum Vitae](/assets/vishal_cv_apping.pdf)
 
+My research interests are:
+
+1) Integrated Computational Materials
+2) Multiscale modelling of materials
+3) Phase-field Modelling
+4) High performance computing
+5) Additive Manufacturing
+6) Computational Fluid Dynamics
+
+Currently, I'm working with Prof. Gandham Phanikumar and Dr. Abhik Choudhury to model the heat transfer during Laser-based additive manufactring process using OpenFOAM.
