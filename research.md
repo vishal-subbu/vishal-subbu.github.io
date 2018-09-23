@@ -22,3 +22,6 @@ My research interests are:
 
 
 Currently, I'm working with Prof. Gandham Phanikumar and Dr. Abhik Choudhury to model the heat transfer during Laser-based additive manufactring process using OpenFOAM.
+
+
+I am looking for Phd positions in computational materials science to work from the fall 2019.

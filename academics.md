@@ -14,8 +14,11 @@ I am seeking a PhD position to start in fall 2019.
 **Dual Degree( B.Tech + M.Tech) in Metallurgical and Materials Engineering**,     
 *Indian Institute of Technology, Chennai, India*  
 Minor : Foundations of Physics
+
 CGPA: 9.26/10
+
 Expected to complete by May 2019  
+
 # Coursework in IIT Madras
 
 
@@ -42,7 +45,6 @@ Expected to complete by May 2019
 
 # Courses from other sources
 
-#### Computer Science
 - Phase Field Modelling for Microstructural Evolution  [GIAN](http://www.gian.iitkgp.ac.in/)
 - Machine Learning by Stanford University on [Coursera](https://coursera.org)
 - Programming, data structures and algorithms using Python on [NPTEL](https://onlinecourses.nptel.ac.in/noc18_cs34/course)
