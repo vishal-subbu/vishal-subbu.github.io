@@ -15,7 +15,8 @@ I am seeking a PhD position to start in fall 2019.
 *Indian Institute of Technology, Chennai, India*  
 *Minor : Foundations of Physics*
 *CGPA: 9.26/10*
-*Expected to complete by May 2019 *
+
+Expected to complete by May 2019 
 
 # Coursework in IIT Madras
 
