@@ -19,9 +19,7 @@ Evaporation and enhanced absorption of heat are involved in achieving deep penet
 
 ### 4. Hot cracking susceptibility of Ni-based superalloys during laser based additive manufacturing
 
-I used in-house codes to model the heat transfer during Additive manufacturing process. 
-This was then used as an input to the phase field codes to predict the morphology of the system.  
-
+A multi-scale approach for formualted to predict the cracking susceptibilty of Ni-based superalloys. A macro-sclae model was used to model the heat flow which predicted the cooling rates, gradients of temperature in in the domain. This was then fed into a phase field model to predict the morphological evolution of the microstructre in the soldiifaction front.  The shape of the dendrites was used to claculate the cracking susceptibilty. All the simulaions were carried out using in-house codes.
 
 
 ### 5. Study of grain growth characteristics in spark plama sintered MgO
@@ -31,10 +29,18 @@ The goal was to model the growth charecteristics of MgO as a function of the pro
 
 ## Course projects
 
+### 1. Effect of an inhomogenity on a dislocation 
 
-### 1. Flow in a channel with an obstacle
+The dynamics of dislocations determines the plasticity of a material. Though there are various reasons for the movement dislocations to get hindered, presence of inhomogeneity plays a very significant role. The presence of inhomogeneity can significantly hinder the dislocations thus strengthening the material. This is the mechanism by which many alloys, including Al-Cu alloys, acquire its strength. Thus, understanding the effect of inhomogeneities on dislocation would enable us to predict the mechanical response of many industrially relevant alloy systems. To understand how inhomogeneities in the matrix affect the dislocation motion, we tried to determine the force acting on the dislocation for a given strain boundary condition and compare it with the case where the material is homogeneous.
 
-### 2. Calculation of Interfacial energies for $\theta'$ precipitates in Al-Cu matrix
 
-### 3. Effect of an inhomogenity on a dislocation 
+### 2. Calculation of Interfacial energies for θ′ precipitates in Al-Cu matrix
 
+We presented a study to model the interface energies of precipitates growing in a mtrix. We implemented DFT techniques to calculate the bulk energies of Al-Cu matrix, θ′ precipitates , inerface energicies of the matrix and θ′ precipitates and the energy due to the coherency strain associated with the interface. We tried to calculate all the parameters that are required by models like phase field methods to understand the microstructure evolution thus enabling a multiscale approach to solve engineering problems.
+
+
+
+### 3. Flow in a channel with an obstacle
+
+We tried to model the flow of a liquid in a channel with an obstacle in it. We developed codes in C++ to solve the Navier-Strokes equation in 2-D with appropriate boundary conditions. 
+We implemented SIMPLE algorithm which was solved using TDMA in 2D.
