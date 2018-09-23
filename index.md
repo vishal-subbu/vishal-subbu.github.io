@@ -3,8 +3,6 @@ layout: home
 title: Home
 ---
 
-![Vishal Subramanian]({{ site.url }}/assets/main.jpg)
-
 Welcome to my website!
 I am VISHAL Subrmanian.
 
