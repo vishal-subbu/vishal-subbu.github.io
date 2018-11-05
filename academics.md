@@ -7,7 +7,7 @@ permalink: /academics
 I am a final year Dual degree student in Indian Institute of Technology, Madras. I grew up in Hosur, Tamil Nadu, India where I completed my higher secondary education.
 
 
-I am seeking a PhD position to start in fall 2019. 
+I am seeking a Ph.D. position to start in fall 2019. 
 
 # Education
 
@@ -32,7 +32,7 @@ Expected to complete by May 2019
 
 #### Foundations of Physics (Minor)
 - Classical Physics
-- Qauntum Physics
+- Quantum Physics
 - Atomistic Modelling of Materials
 
 #### Mathematics

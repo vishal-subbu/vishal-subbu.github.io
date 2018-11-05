@@ -45,4 +45,4 @@ We presented a study to model the interface energies of precipitates growing in 
 ### 3. Flow in a channel with an obstacle
 
 We developed codes to model the flow of a liquid in a channel with a solid obstacle in it.
-We wrote codes in C++ to solve the Navier-Strokes equation in 2-D with appropriate boundary conditions. We implemented SIMPLE algorithm which was solved using Gauss-Sieldel.
+We wrote codes in C++ to solve the Navier-Strokes equation in 2-D with appropriate boundary conditions. We implemented SIMPLE algorithm which was solved using Gauss-Siedel.
